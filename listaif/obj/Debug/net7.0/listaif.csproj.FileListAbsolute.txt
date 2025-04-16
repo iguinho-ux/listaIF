@@ -1,0 +1,14 @@
+C:\Users\Igor55009746\Documents\listaigor\listaif\bin\Debug\net7.0\listaif.exe
+C:\Users\Igor55009746\Documents\listaigor\listaif\bin\Debug\net7.0\listaif.deps.json
+C:\Users\Igor55009746\Documents\listaigor\listaif\bin\Debug\net7.0\listaif.runtimeconfig.json
+C:\Users\Igor55009746\Documents\listaigor\listaif\bin\Debug\net7.0\listaif.dll
+C:\Users\Igor55009746\Documents\listaigor\listaif\bin\Debug\net7.0\listaif.pdb
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.AssemblyInfoInputs.cache
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.AssemblyInfo.cs
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.csproj.CoreCompileInputs.cache
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.dll
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\refint\listaif.dll
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.pdb
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\listaif.genruntimeconfig.cache
+C:\Users\Igor55009746\Documents\listaigor\listaif\obj\Debug\net7.0\ref\listaif.dll

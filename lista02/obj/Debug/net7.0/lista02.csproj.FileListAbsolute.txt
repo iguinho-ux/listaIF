@@ -1,0 +1,14 @@
+C:\Users\Igor55009746\Documents\listaigor\lista02\bin\Debug\net7.0\lista02.exe
+C:\Users\Igor55009746\Documents\listaigor\lista02\bin\Debug\net7.0\lista02.deps.json
+C:\Users\Igor55009746\Documents\listaigor\lista02\bin\Debug\net7.0\lista02.runtimeconfig.json
+C:\Users\Igor55009746\Documents\listaigor\lista02\bin\Debug\net7.0\lista02.dll
+C:\Users\Igor55009746\Documents\listaigor\lista02\bin\Debug\net7.0\lista02.pdb
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.AssemblyInfoInputs.cache
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.AssemblyInfo.cs
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.csproj.CoreCompileInputs.cache
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.dll
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\refint\lista02.dll
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.pdb
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\lista02.genruntimeconfig.cache
+C:\Users\Igor55009746\Documents\listaigor\lista02\obj\Debug\net7.0\ref\lista02.dll
